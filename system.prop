@@ -1,0 +1,11 @@
+#游戏音质优化开关
+ro.vendor.audio.game.effect=true
+#超级HDR
+persist.sys.support_ultra_hdr=true
+#禁用应用预加载
+persist.sys.prestart.proc=false
+#开启dm映射
+persist.miui.extm.dm_opt.enable=true
+#息屏 1 Hz 刷新率
+ro.vendor.display.primary_idle_refresh_rate=60,1:10
+ro.vendor.mi_sf.aod_mode_ddic_refresh_rate=1
