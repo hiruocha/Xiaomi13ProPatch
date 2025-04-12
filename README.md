@@ -1,6 +1,6 @@
 # Xiaomi13Pro 增强模块
 增强系统功能，还你旗舰体验！
-> 代码来源为酷安和GitHub等各处收集，贡献者名单见[鸣谢](#鸣谢)及[更新日志](https://github.com/hiruocha/Xiaomi13Pro/blob/main/CHANGELOG.md)
+> 代码来源为酷安和GitHub等各处收集，贡献者名单见[鸣谢](#鸣谢)及[更新日志](https://github.com/hiruocha/Xiaomi13ProPatch/blob/main/CHANGELOG.md)
 ## 模块补全&增强列表
 ### 系统
 - 去除国行GMS限制
