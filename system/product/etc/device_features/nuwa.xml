@@ -102,10 +102,8 @@
     <bool name="support_smart_fps">true</bool>
     <!-- smart fps value-->
     <integer name="smart_fps_value">120</integer>
-    <!-- (Xiaomi13ProPatch屏幕刷新率 90 Hz 选项) -->
     <integer-array name="fpsList">
         <item>120</item>
-        <item>90</item>
         <item>60</item>
     </integer-array>
     <!--whether the device supports screen key position swap-->
