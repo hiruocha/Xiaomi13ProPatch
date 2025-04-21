@@ -1,3 +1,6 @@
+#高级材质3.0
+persist.sys.background_blur_version=2
+persist.sys.advanced_visual_release=3
 #游戏音质优化开关
 ro.vendor.audio.game.effect=true
 #超级HDR
